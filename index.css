@@ -9,27 +9,31 @@ input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #5f9341;
-    margin-bottom: 4px;
+    border: 1px solid #416393;
+    margin-bottom: 6px;
+    border-radius: 4px;
 }
 
 button {
-    background: #5f9341;
+    background: #415393;
     color: white;
     padding: 10px 20px;
-    border: 1px solid #5f9341;
+    border: 1px solid #415393;
     font-weight: bold;
+    border-radius: 20px;
+    text-align: center;
 }
 
 #delete-btn {
     background: white;
-    color: #5f9341;
+    color: #f31e1e;
+    border: 1px solid #f31e1e;
 }
 
 ul {
     margin-top: 20px;
-    list-style: none;
-    padding-left: 0;
+    list-style-type: none;
+    padding-left: 10px;
 }
 
 li {
@@ -37,7 +41,7 @@ li {
 }
 
 a {
-    color: #5f9341;
+    color: #002f3d;
 }
 
 
